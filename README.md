@@ -1,2 +1,2 @@
-# automacaoempython
-Meus projetos de automação fitos com a linguagem Python.
+# Projetos feitos com Python
+Meus projetos de automação/analise de dados feitos com a linguagem Python.
